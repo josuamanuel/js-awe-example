@@ -1,0 +1,21 @@
+{
+  "name": "js-awe",
+  "version": "1.0.60",
+  "homepage": "https://github.com/josuamanuel/js-awe",
+  "author": "josuamanuel@hotmail.com",
+  "repository": "github:josuamanuel/js-awe",
+  "bugs": {
+    "url": "https://github.com/josuamanuel/js-awe",
+    "email": "josuamanuel@hotmail.com"
+  },
+  "description": "Awesome js utils including - plan: An Asynchronous control flow with a functional taste - Chrono: record and visualize timelines in the console",
+  "type": "module",
+  "browser": "./js-awe.min.js",
+  "main": "./js-awe.min.js",
+  "types": "./js-awe.min..d.ts",
+  "scripts": {  
+  },
+  "license": "MIT",
+  "dependencies": {
+  }
+}
